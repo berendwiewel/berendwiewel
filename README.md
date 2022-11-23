@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @berendwiewewl
+- 👋 Hi, I’m @berendwiewel
 - 👀 I’m interested in coding/data-science
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on projects
