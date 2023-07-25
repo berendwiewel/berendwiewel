@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @berendwiewel, student/coder based in Amsterdam
-- 👀 I’m interested in coding/data-science
-- 🌱 I’m currently learning JS
+- 👋 Hi, I’m @berendwiewel, DevOps engineer based in Amsterdam
+- 👀 I’m interested in coding/data science and getting replaced by LLMs
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me solomonwk@outlook.com
 
